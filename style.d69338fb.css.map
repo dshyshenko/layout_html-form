@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAEA,OACE,kBACF,CAEA,OACE,eAAgB,CAChB,aACF","file":"style.d69338fb.css","sourceRoot":"..\\src","sourcesContent":["/*styles go here*/\n\n.group {\n  margin-bottom: 20px;\n}\n\n.field {\n  margin-top: 10px;\n  display: block;\n}\n"]}
